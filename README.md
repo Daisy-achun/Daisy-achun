@@ -34,7 +34,7 @@
 - 🌱 I’m currently specializing in **LLM apps · React/TS · Swift · Product Design**
 - 📫 How to reach me:  
   [![Xiaohongshu](https://img.shields.io/badge/小红书-数学系阿纯-ff2442?style=flat&logo=xiaohongshu&logoColor=white)](https://xhslink.cn/o/5GwCPPcIICG)
-  [![X](https://img.shields.io/badge/X-@Daisy_achun-000000?style=flat&logo=x&logoColor=white)](https://x.com/Daisy_achun)
+  [![X](https://img.shields.io/badge/X-@Daisy__achun-000000?style=flat&logo=x&logoColor=white)](https://x.com/Daisy_achun)
   [![GitHub](https://img.shields.io/badge/GitHub-Daisy--achun-181717?style=flat&logo=github&logoColor=white)](https://github.com/Daisy-achun)
 - 👯 I’m building **StartBuild** —— 在北京办过两场百人以上黑客松；霍启刚、鄺美雲等人大代表曾到现场参观
 - 🧩 I take pride in shipping full loops: **独立开发 → 自媒体宣发 → 用户反馈 → 迭代优化**
@@ -94,14 +94,6 @@
 
 ---
 
-<div align="center">
-  <h2>📫 Connect</h2>
-  <a href="https://xhslink.cn/o/5GwCPPcIICG"><img src="https://img.shields.io/badge/小红书-数学系阿纯-ff2442?style=for-the-badge" alt="xhs" /></a>
-  <a href="https://x.com/achunmm"><img src="https://img.shields.io/badge/X-@achunmm-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
-  <a href="https://github.com/Daisy-achun"><img src="https://img.shields.io/badge/GitHub-Daisy--achun-181717?style=for-the-badge&logo=github&logoColor=white" alt="gh" /></a>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D6C8,50:E8A87C,100:C45C66&height=100&section=footer" alt="footer" />
