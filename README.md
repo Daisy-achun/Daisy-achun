@@ -1,8 +1,8 @@
 <!--
   使用方法：
-  1. 在 GitHub 新建公开仓库：chx0506/chx0506（仓库名必须和用户名一致）
+  1. 在 GitHub 新建公开仓库：Daisy-achun/Daisy-achun（仓库名必须和用户名一致）
   2. 把本文件内容复制为该仓库根目录的 README.md 并推送
-  3. 打开 https://github.com/chx0506 即可看到主页介绍
+  3. 打开 https://github.com/Daisy-achun 即可看到主页介绍
 -->
 
 <div align="center">
@@ -23,19 +23,19 @@
 > **👩‍💻 About Me**
 > <img height="36" alt="wave" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" />
 
-- 👋 I’m **[Daisy · 数学系阿纯](https://xhslink.cn/o/5GwCPPcIICG)** · GitHub [`chx0506`](https://github.com/chx0506)
+- 👋 I’m **[Daisy · 数学系阿纯](https://xhslink.cn/o/5GwCPPcIICG)** · GitHub [`Daisy-achun`](https://github.com/Daisy-achun)
 - 🎓 **HHU** 数学本 · **BJTU** 计算机硕在读 · 研究方向 **大模型**
 - ✍️ 小红书四千粉教育博主 · **0 实习经历**拿到抖音实习 offer
 - 💰 独立做过电商与知识付费，累计盈利 **2w+**
 - 🔭 Currently leading **抖音 AI 创变者计划 · 北方赛区** & **StartBuild** 社区（成员 **1000+**）
 - 🏆 **2026抖音创变者计划总决赛全国亚军** 抖音跨年黑客松 **最佳产品创意奖**
-- 🌐 Visit my products 👉 **[专注羊](https://github.com/chx0506/PlotPlayer)** · **[VERSO](https://github.com/chx0506/VERSO)** · **[小咪](https://aidol-s2.vercel.app)** · **[MoonWave](https://moon-wave.vercel.app)**
+- 🌐 Visit my products 👉 **[专注羊](https://github.com/Daisy-achun/PlotPlayer)** · **[VERSO](https://github.com/Daisy-achun/VERSO)** · **[小咪](https://aidol-s2.vercel.app)** · **[MoonWave](https://moon-wave.vercel.app)**
 - 🎮 **_Highlights_**: App Store Beta（内测 **240+**）· 黑客松奖金近 **7w** · 奇绩创坛面试 · 北京百人黑客松 ×2
 - 🌱 I’m currently specializing in **LLM apps · React/TS · Swift · Product Design**
 - 📫 How to reach me:  
   [![Xiaohongshu](https://img.shields.io/badge/小红书-数学系阿纯-ff2442?style=flat&logo=xiaohongshu&logoColor=white)](https://xhslink.cn/o/5GwCPPcIICG)
   [![X](https://img.shields.io/badge/X-@achunmm-000000?style=flat&logo=x&logoColor=white)](https://x.com/achunmm)
-  [![GitHub](https://img.shields.io/badge/GitHub-chx0506-181717?style=flat&logo=github&logoColor=white)](https://github.com/chx0506)
+  [![GitHub](https://img.shields.io/badge/GitHub-Daisy--achun-181717?style=flat&logo=github&logoColor=white)](https://github.com/Daisy-achun)
 - 👯 I’m building **StartBuild** —— 在北京办过两场百人以上黑客松；霍启刚、鄺美雲等人大代表曾到现场参观
 - 🧩 I take pride in shipping full loops: **独立开发 → 自媒体宣发 → 用户反馈 → 迭代优化**
 - ⚡ Fun fact: **能写代码，也能把故事讲完；能自己出货，也能把场子撑起来。**
@@ -53,19 +53,19 @@
 
 | 🐑 **专注羊 · PlotPlayer** | 🎬 **VERSO** |
 |:---|:---|
-| Apple Store Beta · AI 专注 App<br>独立开发 → 宣发 → 反馈 → 迭代<br>内测用户 **240+**<br><br>[仓库](https://github.com/chx0506/PlotPlayer) | 多视频理解 · 跨视频信息提取与关联总结<br>从多源内容构建统一语义视图<br><br>[仓库](https://github.com/chx0506/VERSO) |
+| Apple Store Beta · AI 专注 App<br>独立开发 → 宣发 → 反馈 → 迭代<br>内测用户 **240+**<br><br>[仓库](https://github.com/Daisy-achun/PlotPlayer) | 多视频理解 · 跨视频信息提取与关联总结<br>从多源内容构建统一语义视图<br><br>[仓库](https://github.com/Daisy-achun/VERSO) |
 
 | 🐱 **小咪 App** | 🌊 **MoonWave · 月潮** |
 |:---|:---|
-| 猫窝体重秤的软件端 · 硬件产品配套 App<br>称重联调 → 陪伴聊天 → 健康洞察 → 社区<br><br>[仓库](https://github.com/chx0506/xiaomi-app) · [在线](https://aidol-s2.vercel.app) | 先听见身体，再听见自己<br>纸艺海岸 · 潮汐日刊 · 海岛探索<br><br>[仓库](https://github.com/chx0506/MoonWave) · [在线](https://moon-wave.vercel.app) |
+| 猫窝体重秤的软件端 · 硬件产品配套 App<br>称重联调 → 陪伴聊天 → 健康洞察 → 社区<br><br>[仓库](https://github.com/Daisy-achun/xiaomi-app) · [在线](https://aidol-s2.vercel.app) | 先听见身体，再听见自己<br>纸艺海岸 · 潮汐日刊 · 海岛探索<br><br>[仓库](https://github.com/Daisy-achun/MoonWave) · [在线](https://moon-wave.vercel.app) |
 
 <p align="center">
   <sub>更多实验：</sub>
-  <a href="https://github.com/chx0506/insight-inn">Insight Inn</a> ·
-  <a href="https://github.com/chx0506/PairRead">PairRead</a> ·
-  <a href="https://github.com/chx0506/knowledge-daily">知识日报</a> ·
-  <a href="https://chx0506.github.io/bali-flipbook/">巴厘岛翻页书</a> ·
-  <a href="https://github.com/chx0506/video-to-flipbook">video-to-flipbook</a>
+  <a href="https://github.com/Daisy-achun/insight-inn">Insight Inn</a> ·
+  <a href="https://github.com/Daisy-achun/PairRead">PairRead</a> ·
+  <a href="https://github.com/Daisy-achun/knowledge-daily">知识日报</a> ·
+  <a href="https://daisy-achun.github.io/bali-flipbook/">巴厘岛翻页书</a> ·
+  <a href="https://github.com/Daisy-achun/video-to-flipbook">video-to-flipbook</a>
 </p>
 
 ---
@@ -76,13 +76,13 @@
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chx0506&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&title_color=C45C66&icon_color=E8A87C&text_color=4A4543&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chx0506&layout=compact&theme=buefy&hide_border=true&title_color=C45C66&text_color=4A4543&bg_color=00000000" alt="langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daisy-achun&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&title_color=C45C66&icon_color=E8A87C&text_color=4A4543&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daisy-achun&layout=compact&theme=buefy&hide_border=true&title_color=C45C66&text_color=4A4543&bg_color=00000000" alt="langs" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chx0506&label=Profile%20views&color=c45c66&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/chx0506?style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Daisy-achun&label=Profile%20views&color=c45c66&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/Daisy-achun?style=social" alt="followers" />
 </div>
 
 <br />
@@ -98,7 +98,7 @@
   <h2>📫 Connect</h2>
   <a href="https://xhslink.cn/o/5GwCPPcIICG"><img src="https://img.shields.io/badge/小红书-数学系阿纯-ff2442?style=for-the-badge" alt="xhs" /></a>
   <a href="https://x.com/achunmm"><img src="https://img.shields.io/badge/X-@achunmm-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
-  <a href="https://github.com/chx0506"><img src="https://img.shields.io/badge/GitHub-chx0506-181717?style=for-the-badge&logo=github&logoColor=white" alt="gh" /></a>
+  <a href="https://github.com/Daisy-achun"><img src="https://img.shields.io/badge/GitHub-Daisy--achun-181717?style=for-the-badge&logo=github&logoColor=white" alt="gh" /></a>
 </div>
 
 <br />
@@ -106,5 +106,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7D6C8,50:E8A87C,100:C45C66&height=100&section=footer" alt="footer" />
   <br />
-  <sub><b>数学系阿纯 · Daisy · chx0506</b><br />build · ship · gather people · keep learning</sub>
+  <sub><b>数学系阿纯 · Daisy · Daisy-achun</b><br />build · ship · gather people · keep learning</sub>
 </div>
