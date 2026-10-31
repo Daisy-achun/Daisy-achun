@@ -33,9 +33,9 @@
 - 🎮 **_Highlights_**: App Store Beta（内测 **240+**）· 黑客松奖金近 **7w** · 奇绩创坛面试 · 北京百人黑客松 ×2
 - 🌱 I’m currently specializing in **LLM apps · React/TS · Swift · Product Design**
 - 📫 How to reach me:  
-  [![Xiaohongshu](https://img.shields.io/badge/小红书-数学系阿纯-ff2442?style=flat&logo=xiaohongshu&logoColor=white)](https://xhslink.cn/o/5GwCPPcIICG)
-  [![X](https://img.shields.io/badge/X-@Daisy__achun-000000?style=flat&logo=x&logoColor=white)](https://x.com/Daisy_achun)
-  [![GitHub](https://img.shields.io/badge/GitHub-Daisy--achun-181717?style=flat&logo=github&logoColor=white)](https://github.com/Daisy-achun)
+  [![Xiaohongshu](https://img.shields.io/badge/小红书·数学系阿纯-ff2442?style=flat&logo=xiaohongshu&logoColor=white)](https://xhslink.cn/o/5GwCPPcIICG)
+  [![X](https://img.shields.io/badge/%40Daisy__achun-000000?style=flat&logo=x&logoColor=white)](https://x.com/Daisy_achun)
+  [![GitHub](https://img.shields.io/badge/Daisy--achun-181717?style=flat&logo=github&logoColor=white)](https://github.com/Daisy-achun)
 - 👯 I’m building **StartBuild** —— 在北京办过两场百人以上黑客松；霍启刚、鄺美雲等人大代表曾到现场参观
 - 🧩 I take pride in shipping full loops: **独立开发 → 自媒体宣发 → 用户反馈 → 迭代优化**
 - ⚡ Fun fact: **能写代码，也能把故事讲完；能自己出货，也能把场子撑起来。**
